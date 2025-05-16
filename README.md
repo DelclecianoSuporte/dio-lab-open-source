@@ -45,6 +45,10 @@ Aprender o básico sobre contribuição no GitHub.
 </table>
 
 ---
+## Instruções
+
+1. Crie uma nova branch e nomeie como feat/community/seunomedeusuario:git checkout -b feat/community/seunomedeusuario:
+
 ## Desafio de Projeto da DIO
 Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
 Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
